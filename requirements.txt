@@ -1,0 +1,7 @@
+Django==1.9.7
+psycopg2==2.6.1
+django-extensions==1.6.7
+django-languages==0.1
+djangorestframework==3.3.3
+gunicorn==19.4.5
+dj-database-url==0.4.1
